@@ -27,7 +27,7 @@ public class InsertDocumentsToCollection {
 		System.out.println("Collection sampleCollection01 selected successfully");
 
 		// Inserting a Document in a collection
-		/*Document document = new Document("id", 1).append("Name", "NPN Training")
+		/*Document document = new Document("id", 1).append("Name", "some")
 				.append("description", "BigData Training Institute").append("URL", "www.some.com")
 				.append("by", "sw");
 		collection.insertOne(document);
