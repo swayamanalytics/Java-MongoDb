@@ -28,8 +28,8 @@ public class InsertDocumentsToCollection {
 
 		// Inserting a Document in a collection
 		/*Document document = new Document("id", 1).append("Name", "NPN Training")
-				.append("description", "BigData Training Institute").append("URL", "www.NPNTraining.com")
-				.append("by", "Naveen");
+				.append("description", "BigData Training Institute").append("URL", "www.some.com")
+				.append("by", "sw");
 		collection.insertOne(document);
 		System.out.println("Document inserted successfully");*/
 
